@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" modified="2023-07-20T06:04:59.321Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="MGjA7CdrNsW5Ed3ksHW4" version="21.6.2" type="github">
+  <diagram name="Page-1" id="hWqpun3HPMsycUL68xMU">
+    <mxGraphModel dx="2261" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5RfA8IImB0hyUWWM5knb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RfA8IImB0hyUWWM5knb-1" target="5RfA8IImB0hyUWWM5knb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-1" value="Tracking Screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RfA8IImB0hyUWWM5knb-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="672.5" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-2" value="Edit Basket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RfA8IImB0hyUWWM5knb-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="732.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-6" value="Home Coordinator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RfA8IImB0hyUWWM5knb-10" target="5RfA8IImB0hyUWWM5knb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-10" value="Check if the top Controller I present" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="210" width="125" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RfA8IImB0hyUWWM5knb-13" target="5RfA8IImB0hyUWWM5knb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-13" value="Dismiss All Till it reaches Discover" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RfA8IImB0hyUWWM5knb-15" target="5RfA8IImB0hyUWWM5knb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-15" value="Top Cordinate is `DiscoverCoordinate`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RfA8IImB0hyUWWM5knb-17" target="5RfA8IImB0hyUWWM5knb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-17" value="Call navigate on Super `HomeCoodinator`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RfA8IImB0hyUWWM5knb-19" target="5RfA8IImB0hyUWWM5knb-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-19" value="Finds `isPresenting` bit false" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472.5" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RfA8IImB0hyUWWM5knb-21" target="5RfA8IImB0hyUWWM5knb-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-21" value="Create a new `DiscoverCoordinate`" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RfA8IImB0hyUWWM5knb-23" target="5RfA8IImB0hyUWWM5knb-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RfA8IImB0hyUWWM5knb-23" target="5RfA8IImB0hyUWWM5knb-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-23" value="Replaces the entire navigation stack with newly created Discover Coodinate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-25" value="Stays on Discover and Navigation is not performed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-31" value="App Crashes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RfA8IImB0hyUWWM5knb-39" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="700" as="sourcePoint" />
+            <mxPoint x="450" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
